@@ -1,1 +1,2 @@
-# GYM-CROWD-S-ZE-PRED-CT-OIN
+# GYM CROD SIZE PREDİCTİON
+#Bu projede, spor salonunun yoğunluğunu tahmin eden bir makine öğrenmesi modeli geliştirdim. Günün saati, haftanın günü, hava durumu, tatil dönemleri ve akademik takvim gibi faktörleri kullanarak, öğrencilerin spor salonuna gitmeden önce en uygun saatleri belirlemelerine yardımcı olmayı amaçladım. Böylece, daha verimli bir antrenman planlaması yapılabilir ve kalabalık saatlerden kaçınılabilir
